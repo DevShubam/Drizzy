@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Trance (Alt Version)",
+        "album": "For All The Dogs",
+        "format": "MP3",
+        "file_path": "/Drake/FATD/Trance_Alt.mp3",
+        "notes": "Unofficial version with alternate mix"
+    },
+    {
+        "title": "Trance (Second Alt Version)",
+        "album": "For All The Dogs",
+        "format": "MP3",
+        "file_path": "/Drake/FATD/Trance_Alt2.mp3",
+        "notes": "Unofficial version with different mastering"
+    },
+    {
+        "title": "Liability",
+        "album": "Honestly, Nevermind",
+        "format": "MPEG-4",
+        "file_path": "/Drake/HonestlyNevermind/Liability_HQ.mp4",
+        "notes": "High-quality version with standard pitch"
+    }
+]

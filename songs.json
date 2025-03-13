@@ -1,0 +1,4778 @@
+[
+    {
+        "title": "It\u2019s Up",
+        "album": "100 GIGS",
+        "formats": [
+            "VBR MP3",
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "01 It\u2019s Up.mp3\n100 GIGS/01 It\u2019s Up.mp3",
+            "100 GIGS/01 It\u2019s Up.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Blue Green Red",
+        "album": "100 GIGS",
+        "formats": [
+            "VBR MP3",
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "02 Blue Green Red.mp3\n100 GIGS/02 Blue Green Red.mp3",
+            "100 GIGS/02 Blue Green Red.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Housekeeping Knows",
+        "album": "100 GIGS",
+        "formats": [
+            "VBR MP3",
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "03 Housekeeping Knows.mp3\n100 GIGS/03 Housekeeping Knows.mp3",
+            "100 GIGS/03 Housekeeping Knows.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "No Face",
+        "album": "No Face",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "100 GIGS/Drake - No Face [FLAC] [24 bit 48 kHz].flac",
+            "100 GIGS/Drake - No Face [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Lust for Life",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/01. Drake - Lust for Life [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/01. Drake - Lust for Life [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Houstatlantavegas",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/02. Drake - Houstatlantavegas [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/02. Drake - Houstatlantavegas [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Successful",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/03. Drake - Successful [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/03. Drake - Successful [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Let\u2019s Call It Off",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/04. Drake - Let\u2019s Call It Off [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/04. Drake - Let\u2019s Call It Off [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "November 18th",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/05. Drake - November 18th [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/05. Drake - November 18th [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Ignant Shit",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/06. Drake - Ignant Shit [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/06. Drake - Ignant Shit [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "A Night Off",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/07. Drake - A Night Off [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/07. Drake - A Night Off [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Say What\u2019s Real",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/08. Drake - Say What\u2019s Real [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/08. Drake - Say What\u2019s Real [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Little Bit",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/09. Drake - Little Bit [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/09. Drake - Little Bit [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Best I Ever Had",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/10. Drake - Best I Ever Had [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/10. Drake - Best I Ever Had [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Unstoppable",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/11. Drake - Unstoppable [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/11. Drake - Unstoppable [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Uptown",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/12. Drake - Uptown [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/12. Drake - Uptown [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Sooner Than Later",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/13. Drake - Sooner Than Later [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/13. Drake - Sooner Than Later [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Bria\u2019s Interlude",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/14. Drake - Bria\u2019s Interlude [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/14. Drake - Bria\u2019s Interlude [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Calm",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/15. Drake - The Calm [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/15. Drake - The Calm [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Outro",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/16. Drake - Outro [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/16. Drake - Outro [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Brand New",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/17. Drake - Brand New [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/17. Drake - Brand New [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Congratulations",
+        "album": "So Far Gone",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/18. Drake - Congratulations [FLAC] [24 bit 44.1 kHz].flac",
+            "2009 - Drake - So Far Gone [FLAC] [24 bit 44.1 kHz]/18. Drake - Congratulations [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fireworks",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/01. Drake - Fireworks [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/01. Drake - Fireworks [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Karaoke",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/02. Drake - Karaoke [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/02. Drake - Karaoke [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Resistance",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/03. Drake - The Resistance [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/03. Drake - The Resistance [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Over",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/04. Drake - Over [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/04. Drake - Over [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Show Me a Good Time",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/05. Drake - Show Me a Good Time [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/05. Drake - Show Me a Good Time [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Up All Night",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/06. Drake - Up All Night [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/06. Drake - Up All Night [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fancy",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/07. Drake - Fancy [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/07. Drake - Fancy [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Shut It Down",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/08. Drake - Shut It Down [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/08. Drake - Shut It Down [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Unforgettable",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/09. Drake - Unforgettable [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/09. Drake - Unforgettable [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Light Up",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/10. Drake - Light Up [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/10. Drake - Light Up [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Miss Me",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/11. Drake - Miss Me [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/11. Drake - Miss Me [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Cece\u2019s Interlude",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/12. Drake - Cece\u2019s Interlude [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/12. Drake - Cece\u2019s Interlude [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Find Your Love",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/13. Drake - Find Your Love [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/13. Drake - Find Your Love [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Thank Me Now",
+        "album": "Thank Me Later",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2010 - Drake - Thank Me Later/14. Drake - Thank Me Now [FLAC] [16 bit 44.1 kHz].flac",
+            "2010 - Drake - Thank Me Later/14. Drake - Thank Me Now [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Over My Dead Body",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/01. Drake - Over My Dead Body [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/01. Drake - Over My Dead Body [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Shot for Me",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/02. Drake - Shot for Me [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/02. Drake - Shot for Me [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Headlines",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/03. Drake - Headlines [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/03. Drake - Headlines [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Crew Love",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/04. Drake - Crew Love [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/04. Drake - Crew Love [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Take Care",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/05. Drake - Take Care [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/05. Drake - Take Care [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Marvins Room",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/06. Drake - Marvins Room [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/06. Drake - Marvins Room [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Buried Alive Interlude",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/07. Drake - Buried Alive Interlude [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/07. Drake - Buried Alive Interlude [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Under Ground Kings",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/08. Drake - Under Ground Kings [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/08. Drake - Under Ground Kings [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "We\u2019ll Be Fine",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/09. Drake - We\u2019ll Be Fine [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/09. Drake - We\u2019ll Be Fine [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Make Me Proud",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/10. Drake - Make Me Proud [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/10. Drake - Make Me Proud [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Lord Knows",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/11. Drake - Lord Knows [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/11. Drake - Lord Knows [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Cameras / Good Ones Go Interlude (medley)",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/12. Drake - Cameras - Good Ones Go Interlude (medley) [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/12. Drake - Cameras - Good Ones Go Interlude (medley) [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Doing It Wrong",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/13. Drake - Doing It Wrong [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/13. Drake - Doing It Wrong [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Real Her",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/14. Drake - The Real Her [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/14. Drake - The Real Her [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Look What You\u2019ve Done",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/15. Drake - Look What You\u2019ve Done [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/15. Drake - Look What You\u2019ve Done [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "HYFR (Hell Ya Fucking Right)",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/16. Drake - HYFR (Hell Ya Fucking Right) [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/16. Drake - HYFR (Hell Ya Fucking Right) [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Practice",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/17. Drake - Practice [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/17. Drake - Practice [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Ride",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/18. Drake - The Ride [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/18. Drake - The Ride [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Motto",
+        "album": "Take Care",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2011 - Drake - Take Care (Deluxe)/19. Drake - The Motto [FLAC] [16 bit 44.1 kHz].flac",
+            "2011 - Drake - Take Care (Deluxe)/19. Drake - The Motto [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Tuscan Leather",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/01. Drake - Tuscan Leather [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/01. Drake - Tuscan Leather [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Furthest Thing",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/02. Drake - Furthest Thing [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/02. Drake - Furthest Thing [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Started From the Bottom",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/03. Drake - Started From the Bottom [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/03. Drake - Started From the Bottom [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Wu-Tang Forever",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/04. Drake - Wu-Tang Forever [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/04. Drake - Wu-Tang Forever [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Own It",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/05. Drake - Own It [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/05. Drake - Own It [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Worst Behavior",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/06. Drake - Worst Behavior [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/06. Drake - Worst Behavior [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "From Time",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/07. Drake - From Time [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/07. Drake - From Time [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Hold On, We\u2019re Going Home",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/08. Drake - Hold On, We\u2019re Going Home [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/08. Drake - Hold On, We\u2019re Going Home [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Connect",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/09. Drake - Connect [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/09. Drake - Connect [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Language",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/10. Drake - The Language [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/10. Drake - The Language [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "305 to My City",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/11. Drake - 305 to My City [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/11. Drake - 305 to My City [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Too Much",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/12. Drake - Too Much [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/12. Drake - Too Much [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Pound Cake / Paris Morton Music 2",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/13. Drake - Pound Cake - Paris Morton Music 2 [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/13. Drake - Pound Cake - Paris Morton Music 2 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Come Thru",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/14. Drake - Come Thru [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/14. Drake - Come Thru [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "All Me",
+        "album": "Nothing Was the Same",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2013 - Drake - Nothing Was The Same (Deluxe)/15. Drake - All Me [FLAC] [16 bit 44.1 kHz].flac",
+            "2013 - Drake - Nothing Was The Same (Deluxe)/15. Drake - All Me [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Legend",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/01. Drake - Legend [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/01. Drake - Legend [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Energy",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/02. Drake - Energy [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/02. Drake - Energy [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "10 Bands",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/03. Drake - 10 Bands [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/03. Drake - 10 Bands [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Know Yourself",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/04. Drake - Know Yourself [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/04. Drake - Know Yourself [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "No Tellin\u2019",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/05. Drake - No Tellin\u2019 [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/05. Drake - No Tellin\u2019 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Madonna",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/06. Drake - Madonna [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/06. Drake - Madonna [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "6 God",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/07. Drake - 6 God [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/07. Drake - 6 God [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Star67",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/08. Drake - Star67 [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/08. Drake - Star67 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Preach",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/09. Drake - Preach [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/09. Drake - Preach [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Wednesday Night (interlude)",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/10. Drake - Wednesday Night (interlude) [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/10. Drake - Wednesday Night (interlude) [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Used To",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/11. Drake - Used To [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/11. Drake - Used To [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "6 Man",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/12. Drake - 6 Man [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/12. Drake - 6 Man [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Now & Forever",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/13. Drake - Now & Forever [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/13. Drake - Now & Forever [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Company",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/14. Drake - Company [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/14. Drake - Company [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "You & The 6",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/15. Drake - You & The 6 [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/15. Drake - You & The 6 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jungle",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/16. Drake - Jungle [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/16. Drake - Jungle [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "6PM in New York",
+        "album": "If You\u2019re Reading This It\u2019s Too Late",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - If You're Reading This It's Too Late/17. Drake - 6PM in New York [FLAC] [16 bit 44.1 kHz].flac",
+            "2015 - Drake - If You're Reading This It's Too Late/17. Drake - 6PM in New York [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Digital Dash",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/01. Drake, Future - Digital Dash [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/01. Drake, Future - Digital Dash [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Big Rings",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/02. Drake, Future - Big Rings [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/02. Drake, Future - Big Rings [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Live From the Gutter",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/03. Drake, Future - Live From the Gutter [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/03. Drake, Future - Live From the Gutter [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Diamonds Dancing",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/04. Drake, Future - Diamonds Dancing [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/04. Drake, Future - Diamonds Dancing [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Scholarships",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/05. Drake, Future - Scholarships [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/05. Drake, Future - Scholarships [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Plastic Bag",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/06. Drake, Future - Plastic Bag [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/06. Drake, Future - Plastic Bag [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "I\u2019m the Plug",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/07. Drake, Future - I\u2019m the Plug [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/07. Drake, Future - I\u2019m the Plug [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Change Locations",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/08. Drake, Future - Change Locations [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/08. Drake, Future - Change Locations [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jumpman",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/09. Drake, Future - Jumpman [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/09. Drake, Future - Jumpman [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jersey",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/10. Future - Jersey [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/10. Future - Jersey [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": "Features: Future"
+    },
+    {
+        "title": "30 for 30 Freestyle",
+        "album": "What a Time to Be Alive",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2015 - Drake - What A Time To Be Alive/11. Drake - 30 for 30 Freestyle [FLAC] [24 bit 44.1 kHz].flac",
+            "2015 - Drake - What A Time To Be Alive/11. Drake - 30 for 30 Freestyle [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Keep the Family Close",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/01. Drake - Keep the Family Close [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/01. Drake - Keep the Family Close [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "9",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/02. Drake - 9 [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/02. Drake - 9 [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "U With Me?",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/03. Drake - U With Me [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/03. Drake - U With Me [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Feel No Ways",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/04. Drake - Feel No Ways [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/04. Drake - Feel No Ways [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Hype",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/05. Drake - Hype [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/05. Drake - Hype [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Weston Road Flows",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/06. Drake - Weston Road Flows [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/06. Drake - Weston Road Flows [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Redemption",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/07. Drake - Redemption [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/07. Drake - Redemption [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "With You",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/08. Drake - With You [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/08. Drake - With You [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Faithful",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/09. Drake - Faithful [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/09. Drake - Faithful [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Still Here",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/10. Drake - Still Here [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/10. Drake - Still Here [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Controlla",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/11. Drake - Controlla [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/11. Drake - Controlla [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "One Dance",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/12. Drake - One Dance [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/12. Drake - One Dance [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Grammys",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/13. Drake - Grammys [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/13. Drake - Grammys [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Childs Play",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/14. Drake - Childs Play [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/14. Drake - Childs Play [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Pop Style",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/15. Drake - Pop Style [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/15. Drake - Pop Style [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Too Good",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/16. Drake - Too Good [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/16. Drake - Too Good [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Summers Over (interlude)",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/17. Drake - Summers Over (interlude) [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/17. Drake - Summers Over (interlude) [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fire & Desire",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/18. Drake - Fire & Desire [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/18. Drake - Fire & Desire [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Views",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/19. Drake - Views [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/19. Drake - Views [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Hotline Bling",
+        "album": "Views",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2016 - Drake - Views/20. Drake - Hotline Bling [FLAC] [24 bit 44.1 kHz].flac",
+            "2016 - Drake - Views/20. Drake - Hotline Bling [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Free Smoke",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/01. Drake - Free Smoke [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/01. Drake - Free Smoke [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "No Long Talk",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/02. Drake - No Long Talk [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/02. Drake - No Long Talk [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Passionfruit",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/03. Drake - Passionfruit [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/03. Drake - Passionfruit [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jorja Interlude",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/04. Drake - Jorja Interlude [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/04. Drake - Jorja Interlude [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Get It Together",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/05. Drake - Get It Together [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/05. Drake - Get It Together [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Madiba Riddim",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/06. Drake - Madiba Riddim [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/06. Drake - Madiba Riddim [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Blem",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/07. Drake - Blem [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/07. Drake - Blem [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "4422",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/08. Drake - 4422 [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/08. Drake - 4422 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Gyalchester",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/09. Drake - Gyalchester [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/09. Drake - Gyalchester [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Skepta Interlude",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/10. Drake - Skepta Interlude [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/10. Drake - Skepta Interlude [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Portland",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/11. Drake - Portland [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/11. Drake - Portland [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Sacrifices",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/12. Drake - Sacrifices [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/12. Drake - Sacrifices [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Nothings Into Somethings",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/13. Drake - Nothings Into Somethings [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/13. Drake - Nothings Into Somethings [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Teenage Fever",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/14. Drake - Teenage Fever [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/14. Drake - Teenage Fever [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "KMT",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/15. Drake - KMT [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/15. Drake - KMT [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Lose You",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/16. Drake - Lose You [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/16. Drake - Lose You [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Can\u2019t Have Everything",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/17. Drake - Can\u2019t Have Everything [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/17. Drake - Can\u2019t Have Everything [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Glow",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/18. Drake - Glow [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/18. Drake - Glow [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Since Way Back",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/19. Drake - Since Way Back [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/19. Drake - Since Way Back [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fake Love",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/20. Drake - Fake Love [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/20. Drake - Fake Love [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Ice Melts",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/21. Drake - Ice Melts [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/21. Drake - Ice Melts [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Do Not Disturb",
+        "album": "More Life",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2017 - Drake - More Life/22. Drake - Do Not Disturb [FLAC] [16 bit 44.1 kHz].flac",
+            "2017 - Drake - More Life/22. Drake - Do Not Disturb [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Survival",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-01. Drake - Survival [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-01. Drake - Survival [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Nonstop",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-02. Drake - Nonstop [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-02. Drake - Nonstop [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Elevate",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-03. Drake - Elevate [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-03. Drake - Elevate [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Emotionless",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-04. Drake - Emotionless [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-04. Drake - Emotionless [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "God\u2019s Plan",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-05. Drake - God\u2019s Plan [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-05. Drake - God\u2019s Plan [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "I\u2019m Upset",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-06. Drake - I\u2019m Upset [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-06. Drake - I\u2019m Upset [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "8 Out of 10",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-07. Drake - 8 Out of 10 [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-07. Drake - 8 Out of 10 [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Mob Ties",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-08. Drake - Mob Ties [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-08. Drake - Mob Ties [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Can\u2019t Take a Joke",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-09. Drake - Can\u2019t Take a Joke [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-09. Drake - Can\u2019t Take a Joke [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Sandra\u2019s Rose",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-10. Drake - Sandra\u2019s Rose [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-10. Drake - Sandra\u2019s Rose [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Talk Up",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-11. Drake - Talk Up [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-11. Drake - Talk Up [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Is There More",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/1-12. Drake - Is There More [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/1-12. Drake - Is There More [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Peak",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-01. Drake - Peak [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-01. Drake - Peak [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Summer Games",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-02. Drake - Summer Games [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-02. Drake - Summer Games [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jaded",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-03. Drake - Jaded [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-03. Drake - Jaded [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Nice for What",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-04. Drake - Nice for What [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-04. Drake - Nice for What [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Finesse",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-05. Drake - Finesse [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-05. Drake - Finesse [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Ratchet Happy Birthday",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-06. Drake - Ratchet Happy Birthday [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-06. Drake - Ratchet Happy Birthday [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "That\u2019s How You Feel",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-07. Drake - That\u2019s How You Feel [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-07. Drake - That\u2019s How You Feel [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Blue Tint",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-08. Drake - Blue Tint [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-08. Drake - Blue Tint [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "In My Feelings",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-09. Drake - In My Feelings [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-09. Drake - In My Feelings [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Don\u2019t Matter to Me",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-10. Drake - Don\u2019t Matter to Me [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-10. Drake - Don\u2019t Matter to Me [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "After Dark",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-11. Drake - After Dark [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-11. Drake - After Dark [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Final Fantasy",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-12. Drake - Final Fantasy [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-12. Drake - Final Fantasy [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "March 14",
+        "album": "Scorpion",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2018 - Drake - Scorpion/2-13. Drake - March 14 [FLAC] [24 bit 44.1 kHz].flac",
+            "2018 - Drake - Scorpion/2-13. Drake - March 14 [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Dreams Money Can Buy",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/01. Drake - Dreams Money Can Buy [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/01. Drake - Dreams Money Can Buy [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Motion",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/02. Drake - The Motion [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/02. Drake - The Motion [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "How Bout Now",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/03. Drake - How Bout Now [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/03. Drake - How Bout Now [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Trust Issues",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/04. Drake - Trust Issues [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/04. Drake - Trust Issues [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Days in the East",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/05. Drake - Days in the East [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/05. Drake - Days in the East [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Draft Day",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/06. Drake - Draft Day [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/06. Drake - Draft Day [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "4pm in Calabasas",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/07. Drake - 4pm in Calabasas [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/07. Drake - 4pm in Calabasas [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "5 Am in Toronto",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/08. Drake - 5 Am in Toronto [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/08. Drake - 5 Am in Toronto [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "I Get Lonely",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/09. Drake - I Get Lonely [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/09. Drake - I Get Lonely [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "My Side",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/10. Drake - My Side [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/10. Drake - My Side [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jodeci Freestyle",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/11. Drake - Jodeci Freestyle [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/11. Drake - Jodeci Freestyle [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Club Paradise",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/12. Drake - Club Paradise [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/12. Drake - Club Paradise [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Free Spirit",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/13. Drake - Free Spirit [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/13. Drake - Free Spirit [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Heat of the Moment",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/14. Drake - Heat of the Moment [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/14. Drake - Heat of the Moment [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Girls Love Beyonc\u00e9",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/15. Drake - Girls Love Beyonc\u00e9 [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/15. Drake - Girls Love Beyonc\u00e9 [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Paris Morton Music",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/16. Drake - Paris Morton Music [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/16. Drake - Paris Morton Music [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Can I",
+        "album": "Care Package",
+        "formats": [
+            "Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2019 - Drake - Care Package/17. Drake - Can I [FLAC] [16 bit 44.1 kHz].flac",
+            "2019 - Drake - Care Package/17. Drake - Can I [FLAC] [16 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Deep Pockets",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/01. Drake - Deep Pockets [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/01. Drake - Deep Pockets [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "When to Say When",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/02. Drake - When to Say When [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/02. Drake - When to Say When [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Chicago Freestyle",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/03. Drake - Chicago Freestyle [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/03. Drake - Chicago Freestyle [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Not You Too",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/04. Drake - Not You Too [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/04. Drake - Not You Too [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Toosie Slide",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/05. Drake - Toosie Slide [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/05. Drake - Toosie Slide [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Desires",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/06. Drake - Desires [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/06. Drake - Desires [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Time Flies",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/07. Drake - Time Flies [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/07. Drake - Time Flies [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Landed",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/08. Drake - Landed [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/08. Drake - Landed [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "D4L",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/09. Drake - D4L [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/09. Drake - D4L [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Pain 1993",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/10. Drake - Pain 1993 [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/10. Drake - Pain 1993 [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Losses",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/11. Drake - Losses [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/11. Drake - Losses [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "From Florida With Love",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/12. Drake - From Florida With Love [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/12. Drake - From Florida With Love [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Demons",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/13. Drake - Demons [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/13. Drake - Demons [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "War",
+        "album": "Dark Lane Demo Tapes",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2020 - Drake - Dark Lane Demo Tapes/14. Drake - War [FLAC] [24 bit 44.1 kHz].flac",
+            "2020 - Drake - Dark Lane Demo Tapes/14. Drake - War [FLAC] [24 bit 44.1 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Champagne Poetry",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/01. Drake - Champagne Poetry [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/01. Drake - Champagne Poetry [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Papi\u2019s Home",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/02. Drake - Papi\u2019s Home [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/02. Drake - Papi\u2019s Home [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Girls Want Girls",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/03. Drake - Girls Want Girls [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/03. Drake - Girls Want Girls [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "In the Bible",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/04. Drake - In the Bible [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/04. Drake - In the Bible [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Love All",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/05. Drake - Love All [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/05. Drake - Love All [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fair Trade",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/06. Drake - Fair Trade [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/06. Drake - Fair Trade [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Way 2 Sexy",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/07. Drake - Way 2 Sexy [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/07. Drake - Way 2 Sexy [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "TSU",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/08. Drake - TSU [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/08. Drake - TSU [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "N 2 Deep",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/09. Drake - N 2 Deep [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/09. Drake - N 2 Deep [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Pipe Down",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/10. Drake - Pipe Down [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/10. Drake - Pipe Down [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Yebba\u2019s Heartbreak",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/11. Drake - Yebba\u2019s Heartbreak [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/11. Drake - Yebba\u2019s Heartbreak [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "No Friends in the Industry",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/12. Drake - No Friends in the Industry [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/12. Drake - No Friends in the Industry [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Knife Talk",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/13. Drake - Knife Talk [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/13. Drake - Knife Talk [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "7am on Bridle Path",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/14. Drake - 7am on Bridle Path [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/14. Drake - 7am on Bridle Path [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Race My Mind",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/15. Drake - Race My Mind [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/15. Drake - Race My Mind [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fountains",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/16. Drake - Fountains [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/16. Drake - Fountains [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Get Along Better",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/17. Drake - Get Along Better [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/17. Drake - Get Along Better [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "You Only Live Twice",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/18. Drake - You Only Live Twice [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/18. Drake - You Only Live Twice [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "IMY2",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/19. Drake - IMY2 [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/19. Drake - IMY2 [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fucking Fans",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/20. Drake - Fucking Fans [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/20. Drake - Fucking Fans [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Remorse",
+        "album": "Certified Lover Boy",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2021 - Drake - Certified Lover Boy/21. Drake - The Remorse [FLAC] [24 bit 48 kHz].flac",
+            "2021 - Drake - Certified Lover Boy/21. Drake - The Remorse [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Intro",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/01. Drake - Intro [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/01. Drake - Intro [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Falling Back",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/02. Drake - Falling Back [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/02. Drake - Falling Back [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Texts Go Green",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/03. Drake - Texts Go Green [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/03. Drake - Texts Go Green [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Currents",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/04. Drake - Currents [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/04. Drake - Currents [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "A Keeper",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/05. Drake - A Keeper [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/05. Drake - A Keeper [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Calling My Name",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/06. Drake - Calling My Name [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/06. Drake - Calling My Name [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Sticky",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/07. Drake - Sticky [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/07. Drake - Sticky [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Massive",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/08. Drake - Massive [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/08. Drake - Massive [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Flight\u2019s Booked",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/09. Drake - Flight\u2019s Booked [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/09. Drake - Flight\u2019s Booked [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Overdrive",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/10. Drake - Overdrive [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/10. Drake - Overdrive [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Down Hill",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/11. Drake - Down Hill [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/11. Drake - Down Hill [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Tie That Binds",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/12. Drake - Tie That Binds [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/12. Drake - Tie That Binds [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Liability",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/13. Drake - Liability [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/13. Drake - Liability [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jimmy Cooks",
+        "album": "Honestly, Nevermind",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2022 - Drake - Honestly, Nevermind/14. Drake - Jimmy Cooks [FLAC] [24 bit 48 kHz].flac",
+            "2022 - Drake - Honestly, Nevermind/14. Drake - Jimmy Cooks [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "CN TOWER",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/01. PARTYNEXTDOOR & Drake - CN TOWER [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/01. PARTYNEXTDOOR & Drake - CN TOWER [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "MOTH BALLS",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/02. PARTYNEXTDOOR & Drake - MOTH BALLS [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/02. PARTYNEXTDOOR & Drake - MOTH BALLS [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "SOMETHING ABOUT YOU",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/03. PARTYNEXTDOOR & Drake - SOMETHING ABOUT YOU [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/03. PARTYNEXTDOOR & Drake - SOMETHING ABOUT YOU [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "CRYING IN CHANEL",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/04. PARTYNEXTDOOR & Drake - CRYING IN CHANEL [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/04. PARTYNEXTDOOR & Drake - CRYING IN CHANEL [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "SPIDER-MAN SUPERMAN",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/05. PARTYNEXTDOOR & Drake - SPIDER-MAN SUPERMAN [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/05. PARTYNEXTDOOR & Drake - SPIDER-MAN SUPERMAN [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "DEEPER",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/06. PARTYNEXTDOOR & Drake - DEEPER [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/06. PARTYNEXTDOOR & Drake - DEEPER [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": "Features: PARTYNEXTDOOR"
+    },
+    {
+        "title": "SMALL TOWN FAME",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/07. PARTYNEXTDOOR & Drake - SMALL TOWN FAME [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/07. PARTYNEXTDOOR & Drake - SMALL TOWN FAME [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "PIMMIE'S DILEMMA",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/08. PARTYNEXTDOOR & Drake - PIMMIE'S DILEMMA [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/08. PARTYNEXTDOOR & Drake - PIMMIE'S DILEMMA [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "BRIAN STEEL",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/09. PARTYNEXTDOOR & Drake - BRIAN STEEL [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/09. PARTYNEXTDOOR & Drake - BRIAN STEEL [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "GIMME A HUG",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/10. PARTYNEXTDOOR & Drake - GIMME A HUG [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/10. PARTYNEXTDOOR & Drake - GIMME A HUG [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "RAINING IN HOUSTON",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/11. PARTYNEXTDOOR & Drake - RAINING IN HOUSTON [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/11. PARTYNEXTDOOR & Drake - RAINING IN HOUSTON [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "LASERS",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/12. PARTYNEXTDOOR & Drake - LASERS [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/12. PARTYNEXTDOOR & Drake - LASERS [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "MEET YOUR PADRE",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/13. PARTYNEXTDOOR & Drake - MEET YOUR PADRE [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/13. PARTYNEXTDOOR & Drake - MEET YOUR PADRE [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "NOKIA",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/14. PARTYNEXTDOOR & Drake - NOKIA [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/14. PARTYNEXTDOOR & Drake - NOKIA [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "DIE TRYING",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/15. PARTYNEXTDOOR & Drake - DIE TRYING [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/15. PARTYNEXTDOOR & Drake - DIE TRYING [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "SOMEBODY LOVES ME",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/16. PARTYNEXTDOOR & Drake - SOMEBODY LOVES ME [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/16. PARTYNEXTDOOR & Drake - SOMEBODY LOVES ME [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "CELIBACY",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/17. PARTYNEXTDOOR & Drake - CELIBACY [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/17. PARTYNEXTDOOR & Drake - CELIBACY [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "OMW",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/18. PARTYNEXTDOOR & Drake - OMW [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/18. PARTYNEXTDOOR & Drake - OMW [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "GLORIOUS",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/19. PARTYNEXTDOOR & Drake - GLORIOUS [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/19. PARTYNEXTDOOR & Drake - GLORIOUS [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "WHEN HE'S GONE",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/20. PARTYNEXTDOOR & Drake - WHEN HE'S GONE [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/20. PARTYNEXTDOOR & Drake - WHEN HE'S GONE [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "GREEDY",
+        "album": "$ome $exy $ongs 4 U",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/21. PARTYNEXTDOOR & Drake - GREEDY [FLAC] [24 bit 48 kHz].flac",
+            "2025 - PARTYNEXTDOOR, Drake - $ome $exy $ongs 4 U/21. PARTYNEXTDOOR & Drake - GREEDY [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "01 Intro",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/01 Intro.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "02 The Presentation",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/02 The Presentation.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "03 Comeback Season",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/03 Comeback Season.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "04 Closer feat. Andreena Mill",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/04 Closer feat. Andreena Mill.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "05 Replacement Girl feat. Trey Songz",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/05 Replacement Girl feat. Trey Songz.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "06 City is Mine",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/06 City is Mine.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "07 Barry Bonds Freestyle",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/07 Barry Bonds Freestyle.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "08 Going in for Life",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/08 Going in for Life.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "09 Where to Now",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/09 Where to Now.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "10 Share feat. Slakah",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/10 Share feat. Slakah.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "11 Give Ya feat. Trey Songz",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/11 Give Ya feat. Trey Songz.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "12 Don_t U Have a Man feat. Little Brother _ Dwele",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/12 Don_t U Have a Man feat. Little Brother _ Dwele.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "13 B!#ch is Crazy",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/13 B!#ch is Crazy.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "14 The Last Hope feat. Kardinal _ Andreena Mill",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/14 The Last Hope feat. Kardinal _ Andreena Mill.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "15 Must Hate Money feat. Rich Boy",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/15 Must Hate Money feat. Rich Boy.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "16 Asthma Team Freestyle",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/16 Asthma Team Freestyle.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "17 Do What U Do feat. Malice _ Nickelus F",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/17 Do What U Do feat. Malice _ Nickelus F.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "18 Easy to Please feat. Richie Sosa",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/18 Easy to Please feat. Richie Sosa.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "19 Faded feat. Nickelus F",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/19 Faded feat. Nickelus F.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "20 Underdog feat. Trey Songz",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/20 Underdog feat. Trey Songz.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "21 Think Good Thoughts feat. Phonte _ Elzhi",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/21 Think Good Thoughts feat. Phonte _ Elzhi.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "22 Teach U a Lesson feat. Robin Thicke",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/22 Teach U a Lesson feat. Robin Thicke.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "23 Missin_ You (Remix)",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/23 Missin_ You (Remix).flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "24 Man of the Year feat. Lil Wayne",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Comeback Season 2007/24 Man of the Year feat. Lil Wayne.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Liability (Original\u2044Normal Pitch) (1080p_6fps_H264-128kbit_AAC)",
+        "album": "Unknown",
+        "formats": [
+            "MPEG4"
+        ],
+        "file_paths": [
+            "Drake - Liability (Original\u2044Normal Pitch) (1080p_6fps_H264-128kbit_AAC).mp4"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Rich Flex",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/01. Drake - Rich Flex (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/01. Drake - Rich Flex (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Major Distribution",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/02. Drake - Major Distribution (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/02. Drake - Major Distribution (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "On BS",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/03. Drake - On BS (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/03. Drake - On BS (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "BackOutsideBoyz",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/04. Drake - BackOutsideBoyz (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/04. Drake - BackOutsideBoyz (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Privileged Rappers",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/05. Drake - Privileged Rappers (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/05. Drake - Privileged Rappers (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Spin Bout U",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/06. Drake - Spin Bout U (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/06. Drake - Spin Bout U (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Hours In Silence",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/07. Drake - Hours In Silence (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/07. Drake - Hours In Silence (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Treacherous Twins",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/08. Drake - Treacherous Twins (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/08. Drake - Treacherous Twins (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Circo Loco",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/09. Drake - Circo Loco (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/09. Drake - Circo Loco (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Pussy & Millions",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/10. Drake - Pussy & Millions (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/10. Drake - Pussy & Millions (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Broke Boys",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/11. Drake - Broke Boys (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/11. Drake - Broke Boys (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Middle of the Ocean",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/12. Drake - Middle of the Ocean (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/12. Drake - Middle of the Ocean (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Jumbotron Shit Poppin",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/13. Drake - Jumbotron Shit Poppin (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/13. Drake - Jumbotron Shit Poppin (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "More M\u2019s",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/14. Drake - More M\u2019s (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/14. Drake - More M\u2019s (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "3AM on Glenwood",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/15. 21 Savage - 3AM on Glenwood (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/15. 21 Savage - 3AM on Glenwood (Explicit).mp3"
+        ],
+        "notes": "Features: 21 Savage"
+    },
+    {
+        "title": "I Guess It\u2019s Fuck Me",
+        "album": "Her Loss",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "Drake, 21 Savage - Her Loss (2022)/16. Drake - I Guess It\u2019s Fuck Me (Explicit).flac",
+            "Drake, 21 Savage - Her Loss (2022)/16. Drake - I Guess It\u2019s Fuck Me (Explicit).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Red Button",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 01 - Red Button.flac",
+            "For All The Dogs/Drake - For All the Dogs - 01 - Red Button.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Virginia Beach",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 01 - Virginia Beach.flac",
+            "For All The Dogs/Drake - For All the Dogs - 01 - Virginia Beach.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Amen (Feat. Teezo Touchdown)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 02 - Amen.flac",
+            "For All The Dogs/Drake - For All the Dogs - 02 - Amen.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Stories About My Brother",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 02 - Stories About My Brother.flac",
+            "For All The Dogs/Drake - For All the Dogs - 02 - Stories About My Brother.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Calling For You (Feat. 21 Savage)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 03 - Calling for You.flac",
+            "For All The Dogs/Drake - For All the Dogs - 03 - Calling for You.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "The Shoe Fits",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 03 - The Shoe Fits.flac",
+            "For All The Dogs/Drake - For All the Dogs - 03 - The Shoe Fits.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Fear Of Heights",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 04 - Fear of Heights.flac",
+            "For All The Dogs/Drake - For All the Dogs - 04 - Fear of Heights.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Wick Man",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 04 - Wick Man.flac",
+            "For All The Dogs/Drake - For All the Dogs - 04 - Wick Man.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Daylight",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 05 - Daylight.flac",
+            "For All The Dogs/Drake - For All the Dogs - 05 - Daylight.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Evil Ways (Feat. J. Cole)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 05 - Evil Ways.flac",
+            "For All The Dogs/Drake - For All the Dogs - 05 - Evil Ways.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "First Person Shooter (Feat. J. Cole)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 06 - First Person Shooter.flac",
+            "For All The Dogs/Drake - For All the Dogs - 06 - First Person Shooter.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "You Broke My Heart",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 06 - You Broke My Heart.flac",
+            "For All The Dogs/Drake - For All the Dogs - 06 - You Broke My Heart.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "IDGAF (Feat. Yeat)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 07 - IDGAF.flac",
+            "For All The Dogs/Drake - For All the Dogs - 07 - IDGAF.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "7969 Santa",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 08 - 7969 Santa.flac",
+            "For All The Dogs/Drake - For All the Dogs - 08 - 7969 Santa.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Slime You Out (Feat. SZA)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 09 - Slime You Out.flac",
+            "For All The Dogs/Drake - For All the Dogs - 09 - Slime You Out.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Bahamas Promises",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 10 - Bahamas Promises.flac",
+            "For All The Dogs/Drake - For All the Dogs - 10 - Bahamas Promises.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Tried Our Best",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 11 - Tried Our Best.flac",
+            "For All The Dogs/Drake - For All the Dogs - 11 - Tried Our Best.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Screw The World (Interlude)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 12 - Screw the World (interlude).flac",
+            "For All The Dogs/Drake - For All the Dogs - 12 - Screw the World (interlude).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drew A Picasso",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 13 - Drew a Picasso.flac",
+            "For All The Dogs/Drake - For All the Dogs - 13 - Drew a Picasso.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Members Only (Feat. Partynextdoor)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 14 - Members Only.flac",
+            "For All The Dogs/Drake - For All the Dogs - 14 - Members Only.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "What Would Pluto Do",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 15 - What Would Pluto Do.flac",
+            "For All The Dogs/Drake - For All the Dogs - 15 - What Would Pluto Do.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "All The Parties (Feat. Chief Keef)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 16 - All the Parties.flac",
+            "For All The Dogs/Drake - For All the Dogs - 16 - All the Parties.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "8AM In Charlotte",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 17 - 8am in Charlotte.flac",
+            "For All The Dogs/Drake - For All the Dogs - 17 - 8am in Charlotte.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "BBL Love (Interlude)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 18 - BBL Love (interlude).flac",
+            "For All The Dogs/Drake - For All the Dogs - 18 - BBL Love (interlude).mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Gently (Feat. Bad Bunny)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 19 - Gently.flac",
+            "For All The Dogs/Drake - For All the Dogs - 19 - Gently.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Rich Baby Daddy (Feat. Sexyy Red & SZA)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 20 - Rich Baby Daddy.flac",
+            "For All The Dogs/Drake - For All the Dogs - 20 - Rich Baby Daddy.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Another Late Night (Feat. Lil Yachty)",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 21 - Another Late Night.flac",
+            "For All The Dogs/Drake - For All the Dogs - 21 - Another Late Night.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Away From Home",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 22 - Away From Home.flac",
+            "For All The Dogs/Drake - For All the Dogs - 22 - Away From Home.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Polar Opposites",
+        "album": "For All The Dogs: Scary Hours Edition",
+        "formats": [
+            "24bit Flac",
+            "VBR MP3"
+        ],
+        "file_paths": [
+            "For All The Dogs/Drake - For All the Dogs - 23 - Polar Opposites.flac",
+            "For All The Dogs/Drake - For All the Dogs - 23 - Polar Opposites.mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "01 - Rihanna - Work (feat. Drake) (Explicit)",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/01 - Rihanna - Work (feat. Drake) (Explicit).flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "02.What's My Name (feat. Drake)",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/02.What's My Name (feat. Drake).flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "075. Meek Mill - Going Bad (feat. Drake)",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/075. Meek Mill - Going Bad (feat. Drake).flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "11. No Guidance (feat. Drake) - Chris Brown",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/11. No Guidance (feat. Drake) - Chris Brown.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "4batz - act ii- date @ 8 (feat. Drake) [remix] [FLAC] [24 bit 48 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/4batz - act ii- date @ 8 (feat. Drake) [remix] [FLAC] [24 bit 48 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Bad Bunny - MIA (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Bad Bunny - MIA (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "BlocBoy JB - Look Alive (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/BlocBoy JB - Look Alive (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "08 - Camila Cabello; Drake - Hot Uptown",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/C,Xoxo/08 - Camila Cabello; Drake - Hot Uptown.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "09 - Drake - Uuugly",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/C,Xoxo/09 - Drake - Uuugly.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Dave - Wanna Know Remix (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Dave - Wanna Know Remix (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - I'm Goin In [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - I'm Goin In [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Laugh Now Cry Later [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - Laugh Now Cry Later [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Money In The Grave [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - Money In The Grave [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - On The Radar Freestyle [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - On The Radar Freestyle [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Sneakin\u2019 [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - Sneakin\u2019 [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Wants and Needs [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Drake - Wants and Needs [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Future - Life Is Good [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Future - Life Is Good [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Gordo - Sideways [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Gordo - Sideways [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Headie One - Only You Freestyle [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Headie One - Only You Freestyle [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "J Hus - Who Told You [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/J Hus - Who Told You [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Lil Wayne - B.B. King Freestyle [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Lil Wayne - B.B. King Freestyle [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "MC Kevin o Chris - Ela \u00c9 do Tipo (feat. Drake) [Remix] [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/MC Kevin o Chris - Ela \u00c9 do Tipo (feat. Drake) [Remix] [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Majid Jordan - My Love (feat. Drake) [Remix] [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Majid Jordan - My Love (feat. Drake) [Remix] [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Nicki Minaj - No Frauds [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Nicki Minaj - No Frauds [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Nicki Minaj - Seeing Green [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Nicki Minaj - Seeing Green [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "PARTYNEXTDOOR - LOYAL (feat. Drake and Bad Bunny) [Remix] [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/PARTYNEXTDOOR - LOYAL (feat. Drake and Bad Bunny) [Remix] [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "PARTYNEXTDOOR - LOYAL (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/PARTYNEXTDOOR - LOYAL (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "PARTYNEXTDOOR, Drake - Come and See Me (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/PARTYNEXTDOOR, Drake - Come and See Me (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Popcaan - TWIST & TURN (feat. Drake & PARTYNEXTDOOR) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Popcaan - TWIST & TURN (feat. Drake & PARTYNEXTDOOR) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Popcaan - We Caa Done (feat. Drake) [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Popcaan - We Caa Done (feat. Drake) [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Smiley - Over The Top (feat. Drake) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Smiley - Over The Top (feat. Drake) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Travis Scott - MELTDOWN [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Travis Scott - MELTDOWN [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Yung Bleu - You're Mines Still [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/Yung Bleu - You're Mines Still [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "meek-mill-rico-drake",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/meek-mill-rico-drake.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "DJ Khaled - GREECE [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/DJ Khaled - GREECE [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "DJ Khaled - POPSTAR [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/DJ Khaled - POPSTAR [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "DJ Khaled - STAYING ALIVE [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/DJ Khaled - STAYING ALIVE [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - 0 To 100 - The Catch Up [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - 0 To 100 - The Catch Up [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - 9AM in Dallas (Explicit Version) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - 9AM in Dallas (Explicit Version) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Back To Back [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Back To Back [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Charged Up [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Charged Up [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Circadian Rhythm [FLAC] [24 bit 48 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Circadian Rhythm [FLAC] [24 bit 48 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Diplomatic Immunity [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Diplomatic Immunity [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Family Matters [FLAC] [24 bit 48 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Family Matters [FLAC] [24 bit 48 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Fear [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Fear [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Lemon Pepper Freestyle [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Lemon Pepper Freestyle [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Omert\u00e0 [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Omert\u00e0 [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Push Ups [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Push Ups [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Right Hand [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Right Hand [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Search & Rescue [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Search & Rescue [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Signs [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Signs [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Summer Sixteen [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Summer Sixteen [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - The Heart Part 6 (24bit 44.1kHz)",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - The Heart Part 6 (24bit 44.1kHz).flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Two Birds, One Stone [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Two Birds, One Stone [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - What\u2019s Next [FLAC] [24 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - What\u2019s Next [FLAC] [24 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Various Artists - Behind Barz (Bonus) [FLAC] [16 bit 44.1 kHz]",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Various Artists - Behind Barz (Bonus) [FLAC] [16 bit 44.1 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake-Trance-Version-2",
+        "album": "Unknown",
+        "formats": [
+            "Flac"
+        ],
+        "file_paths": [
+            "Trance/Drake-Trance-Version-2.flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake Trance Version 2",
+        "album": "Unknown",
+        "formats": [
+            "VBR MP3",
+            "WAVE"
+        ],
+        "file_paths": [
+            "Trance/Drake-Trance-Version-2.mp3",
+            "Trance/Drake-Trance-Version-2.wav"
+        ],
+        "notes": "Features: Metro Boomin"
+    }
+]
