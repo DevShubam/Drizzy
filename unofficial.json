@@ -1,23 +1,37 @@
 [
     {
-        "title": "Trance (Alt Version)",
-        "album": "For All The Dogs",
-        "format": "MP3",
-        "file_path": "/Drake/FATD/Trance_Alt.mp3",
-        "notes": "Unofficial version with alternate mix"
+        "title": "Trance",
+        "album": "",
+        "format": "m4a",
+        "file_path": "/Trance/Metro Boomin - Trance (Drake Version).m4a",
+        "notes": "Unofficial version with Drake as a feature"
     },
     {
-        "title": "Trance (Second Alt Version)",
-        "album": "For All The Dogs",
-        "format": "MP3",
-        "file_path": "/Drake/FATD/Trance_Alt2.mp3",
-        "notes": "Unofficial version with different mastering"
+        "title": "Trance (Second Version)",
+        "album": "",
+        "format": "FLAC/MP3",
+        "file_path": "/Trance/Drake-Trance-Version-2.flac",
+        "notes": "2nd unofficial version with Drake as a feature"
+    },
+    {
+        "title": "Trance (Third Version)",
+        "album": "",
+        "format": "FLAC/MP3",
+        "file_path": "/Trance/Metro Boomin - Trance (featuring Drake, Travis Scott, Young Thug) (combined outros) (128kbit_AAC).m4a",
+        "notes": "Third unofficial version with Drake as a feature. Outro is also different"
     },
     {
         "title": "Liability",
         "album": "Honestly, Nevermind",
         "format": "MPEG-4",
-        "file_path": "/Drake/HonestlyNevermind/Liability_HQ.mp4",
-        "notes": "High-quality version with standard pitch"
+        "file_path": "/HonestlyNevermind/Liability_HQ.mp4",
+        "notes": "Standard Pitch Version"
+    },
+    {
+        "title": "Rich Baby Daddy",
+        "album": "For All The Dogs",
+        "format": "MPEG-4",
+        "file_path": "/drake - rich baby daddy (without sexyy red) (128kbit_AAC).m4a",
+        "notes": "Edited version that removes Sexyy Red's part"
     }
 ]
