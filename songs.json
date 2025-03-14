@@ -40,7 +40,7 @@
     },
     {
         "title": "No Face",
-        "album": "No Face",
+        "album": "100 GIGS",
         "formats": [
             "24bit Flac",
             "VBR MP3"
@@ -48,6 +48,28 @@
         "file_paths": [
             "100 GIGS/Drake - No Face [FLAC] [24 bit 48 kHz].flac",
             "100 GIGS/Drake - No Face [FLAC] [24 bit 48 kHz].mp3"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - Circadian Rhythm",
+        "album": "100 Gigs",
+        "formats": [
+            "24bit Flac"
+        ],
+        "file_paths": [
+            "Non Album Songs/Solo/Drake - Circadian Rhythm [FLAC] [24 bit 48 kHz].flac"
+        ],
+        "notes": ""
+    },
+    {
+        "title": "Drake - SOD",
+        "album": "100 Gigs",
+        "formats": [
+            "to be added"
+        ],
+        "file_paths": [
+            "sod.mp3"
         ],
         "notes": ""
     },
@@ -4577,17 +4599,6 @@
         "notes": "Drake vs Meek Mill Beef"
     },
     {
-        "title": "Drake - Circadian Rhythm",
-        "album": "100 Gigs",
-        "formats": [
-            "24bit Flac"
-        ],
-        "file_paths": [
-            "Non Album Songs/Solo/Drake - Circadian Rhythm [FLAC] [24 bit 48 kHz].flac"
-        ],
-        "notes": ""
-    },
-    {
         "title": "Drake - Diplomatic Immunity",
         "album": "",
         "formats": [
@@ -4610,7 +4621,7 @@
         "notes": "Drake vs Kendrick Beef"
     },
     {
-        "title": "Drake - Fear]",
+        "title": "Drake - Fear",
         "album": "",
         "formats": [
             "Flac"
