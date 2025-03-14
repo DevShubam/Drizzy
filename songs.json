@@ -4664,7 +4664,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - Right Hand [FLAC] [16 bit 44.1 kHz]",
+        "title": "Drake - Right Hand",
         "album": "Unknown",
         "formats": [
             "Flac"
@@ -4675,7 +4675,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - Search & Rescue [FLAC] [24 bit 44.1 kHz]",
+        "title": "Drake - Search & Rescue",
         "album": "Unknown",
         "formats": [
             "24bit Flac"
@@ -4686,7 +4686,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - Signs [FLAC] [16 bit 44.1 kHz]",
+        "title": "Drake - Signs",
         "album": "Unknown",
         "formats": [
             "Flac"
@@ -4697,7 +4697,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - Summer Sixteen [FLAC] [16 bit 44.1 kHz]",
+        "title": "Drake - Summer Sixteen",
         "album": "Unknown",
         "formats": [
             "Flac"
@@ -4708,7 +4708,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - The Heart Part 6 (24bit 44.1kHz)",
+        "title": "Drake - The Heart Part 6",
         "album": "Unknown",
         "formats": [
             "24bit Flac"
@@ -4719,7 +4719,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - Two Birds, One Stone [FLAC] [16 bit 44.1 kHz]",
+        "title": "Drake - Two Birds, One Stone",
         "album": "Unknown",
         "formats": [
             "Flac"
@@ -4730,7 +4730,7 @@
         "notes": ""
     },
     {
-        "title": "Drake - What\u2019s Next [FLAC] [24 bit 44.1 kHz]",
+        "title": "Drake - What\u2019s Next",
         "album": "Unknown",
         "formats": [
             "24bit Flac"
@@ -4741,7 +4741,7 @@
         "notes": ""
     },
     {
-        "title": "Various Artists - Behind Barz (Bonus) [FLAC] [16 bit 44.1 kHz]",
+        "title": "Drake - Behind Barz",
         "album": "Unknown",
         "formats": [
             "Flac"
@@ -4774,5 +4774,18 @@
             "Trance/Drake-Trance-Version-2.wav"
         ],
         "notes": "Features: Metro Boomin"
+    },
+    {
+        "title": "U My Everything",
+        "album": "In Sexyy We Trust",
+        "formats": [
+            "VBR MP3",
+            "WAVE"
+        ],
+        "file_paths": [
+            "Non Album Songs/Feature/U My Everything (feat. Drake).flac",
+            "Non Album Songs/Feature/U My Everything (feat. Drake).mp3"
+        ],
+        "notes": "Sexyy Red song with Drake as a feature. 2024"
     }
 ]
