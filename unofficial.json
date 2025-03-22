@@ -9,14 +9,14 @@
     {
         "title": "Trance (Second Version)",
         "album": "",
-        "format": "FLAC/MP3",
+        "format": "MP3",
         "file_path": "/Trance/Drake-Trance-Version-2.flac",
         "notes": "2nd unofficial version with Drake as a feature"
     },
     {
         "title": "Trance (Third Version)",
         "album": "",
-        "format": "FLAC/MP3",
+        "format": "MP3",
         "file_path": "/Trance/Metro Boomin - Trance (featuring Drake, Travis Scott, Young Thug) (combined outros) (128kbit_AAC).m4a",
         "notes": "Third unofficial version with Drake as a feature. Outro is also different"
     },
@@ -33,5 +33,12 @@
         "format": "MPEG-4",
         "file_path": "/drake - rich baby daddy (without sexyy red) (128kbit_AAC).m4a",
         "notes": "Edited version that removes Sexyy Red's part"
+    },
+    {
+        "title": "Secrets",
+        "album": "",
+        "format": "MP3",
+        "file_path": "/secrets.mp3",
+        "notes": ""
     }
 ]
